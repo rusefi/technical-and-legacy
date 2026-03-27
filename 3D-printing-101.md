@@ -3,9 +3,10 @@
 * .f3D = Fusion360
 * .ipt = Inventor 2021 design file
 * .STP STEP (or STP) is a popular file format used to store and transfer 3D and 2D geometry models, parts, and design data.
-* .STL = 3D print print file
+* .STL = 3D print print file - triangles, loss of shape. Not great file for permanent record
 * .3MF = 3D print slicer file
 * .gcode = prusa file?
+* .m3d kompas 3d
 
 TPU: softer rubberish something
 
